@@ -1,2 +1,2 @@
-selenium
-jupyter-notebook
+selenium = 4.7.2
+jupyter-notebook = 1.0.0
