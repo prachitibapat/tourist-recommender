@@ -1,121 +1,121 @@
-tourist_spot,rating
-Gateway of India,4.0
-Marine Drive,4.5
-Bandra-Worli Sea Link,4.5
-Shree Siddhivinayak,4.5
-Chhatrapati Shivaji Terminus,4.5
-KidZania Mumbai,4.5
-Colaba,4.5
-Nariman Point,4.5
-Elephanta Caves,4.0
-Mani Bhavan Gandhi Museum,4.5
-Global Vipassana Pagoda,4.5
-Essel World,4.0
-Mount Mary Basilica,4.5
-Kanheri Caves,4.5
-Mahalakshmi Temple,4.5
-Sri Sri Radha Gopinath Temple,4.5
-Sanjay Gandhi National Park,4.0
-Juhu Beach,3.5
-Colaba Causeway,4.0
-Dhobi Ghat,4.0
-Haji Ali Mosque,4.0
-Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,4.5
-Nehru Planetarium,4.0
-Babulnath Temple,4.5
-High Street Phoenix,4.5
-R City Mall,4.5
-Water Kingdom,4.0
-Wankhede Stadium,4.5
-Phoenix Marketcity,4.0
-Worli Sea Face,4.5
-Infiniti Mall,4.5
-Jehangir Art Gallery,4.0
-Bombay High Court,4.0
-Churchgate Railway Station,4.0
-Jain Temple - Mumbai,4.5
-Dharavi,4.0
-Viviana Mall,4.5
-Shivaji Park,4.0
-Malabar Hill,4.0
-Mumba Devi Temple,4.0
-Oberoi Mall,4.5
-Crawford Market,4.0
-Prithvi Theatre,4.5
-Snow Kingdom,4.5
-Priyadarshini Park,4.5
-Sri Sri Radha Rasabihari Ji Temple,4.5
-Willingdon Sports Club,4.5
-Chowpatty Beach,3.5
-Rajabai Clock Tower,4.0
-Linking Road,4.0
-Bhau Daji Lad Museum,4.0
-Lokhandwala Complex Market,4.5
-Aksa Beach,4.0
-Chor Bazaar,4.0
-Powai Lake,3.5
-St. Thomas Cathedral,4.5
-Kamala Nehru Park,4.0
-Mahalakshmi Race Course,4.5
-Nehru Science Center,4.0
-Hedavde Mahalaxmi Temple,4.5
-Hanging Gardens,3.5
-Palladium Mall,4.0
-National Centre for the Performing Arts,4.5
-Gorai Beach,3.5
-Ferry to Alibaug,4.0
-Jogger's Park,4.0
-Muktaa The Wellness Clinic &amp; Luxury Spa Marine Drive,5.0
-Bandra Fort,4.0
-Bandstand Promenade,4.0
-Town Hall (Asiatic Society Library),4.0
-Growel's 101 Mall,4.0
-Mangaldas Market,4.0
-Snow World Mumbai,3.5
-Flora Fountain,4.0
-PVR Icon,4.5
-Nehru Centre,4.0
-Brihanmumbai Municipal Corporation building,4.5
-Aarey Colony,4.0
-Lal Baug Cha Raja,4.5
-Madh Island,3.5
-Girgaum Chowpatty,4.0
-Indian Museum Ship (Vikrant),4.0
-Maharashtra Nature Park,4.0
-Inorbit Mall,4.5
-Sassoon Dock,4.0
-St. Michael's Church,4.5
-Ambreshwar Shiva Temple,4.5
-Manori Beach,4.0
-Banganga,4.0
-Spa by JW,5.0
-Andheri Market,4.0
-Mahatma Jyotiba Phule Market,4.0
-Kala Ghoda Art Precinct,4.5
-Talao Pali Lake,4.0
-Sukhdaa The Wellness Clinic and Cultural Spa Colaba,5.0
-Monetary Museum,4.5
-Juhu,4.0
-Zaveri Bazaar,4.0
-Sewri Jetty,4.0
-Heera Panna Shopping Center,3.5
-Horniman Circle Garden,4.0
-BB Dadar Market,4.0
-Royal Opera House,4.0
-Mumbai G.P.O,4.5
-Five Gardens,4.0
-Thiruchembur Murugan Temple,4.5
-Bhavan's Nature and Adventure Centre,4.5
-Cathedral of the Holy Name,4.5
-Amarsons Garden,4.5
-Mukteshwar Temple,4.5
-Municipal Laundry,4.0
-Royal Western India Turf Club,4.5
-Mumbai Port Trust Garden,4.0
-Fanaswadi Temple,4.5
-Funky Monkeys Play Center - Andheri,4.0
-Ballard Estate,4.0
-Bhandup Pumping Station,4.5
-National Museum of Indian Cinema,4.5
-Afghan Church,4.0
-Keneseth Eliyahoo Synagogue,4.0
+tourist_spot,rating,categories
+Gateway of India,4.0,"['Points of Interest & Landmarks', 'Monuments & Statues']"
+Marine Drive,4.5,"['Points of Interest & Landmarks', 'Scenic Drives']"
+Bandra-Worli Sea Link,4.5,Bridges
+Shree Siddhivinayak,4.5,Religious Sites
+Chhatrapati Shivaji Terminus,4.5,"['Historic Sites', 'Architectural Buildings']"
+KidZania Mumbai,4.5,Amusement & Theme Parks
+Colaba,4.5,Neighbourhoods
+Nariman Point,4.5,Neighbourhoods
+Elephanta Caves,4.0,Points of Interest & Landmarks
+Mani Bhavan Gandhi Museum,4.5,History Museums
+Global Vipassana Pagoda,4.5,Monuments & Statues
+Essel World,4.0,Amusement & Theme Parks
+Mount Mary Basilica,4.5,"['Architectural Buildings', 'Religious Sites']"
+Kanheri Caves,4.5,"['Points of Interest & Landmarks', 'Caverns & Caves']"
+Mahalakshmi Temple,4.5,Religious Sites
+Sri Sri Radha Gopinath Temple,4.5,Religious Sites
+Sanjay Gandhi National Park,4.0,National Parks
+Juhu Beach,3.5,Beaches
+Colaba Causeway,4.0,Points of Interest & Landmarks
+Dhobi Ghat,4.0,Points of Interest & Landmarks
+Haji Ali Mosque,4.0,"['Points of Interest & Landmarks', 'Religious Sites']"
+Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,4.5,History Museums
+Nehru Planetarium,4.0,Speciality Museums
+Babulnath Temple,4.5,Religious Sites
+High Street Phoenix,4.5,Shopping Malls
+R City Mall,4.5,Shopping Malls
+Water Kingdom,4.0,Water Parks
+Wankhede Stadium,4.5,Arenas & Stadiums
+Phoenix Marketcity,4.0,Shopping Malls
+Worli Sea Face,4.5,Points of Interest & Landmarks
+Infiniti Mall,4.5,"['Points of Interest & Landmarks', 'Monuments & Statues']"
+Jehangir Art Gallery,4.0,"['Points of Interest & Landmarks', 'Scenic Drives']"
+Bombay High Court,4.0,Bridges
+Churchgate Railway Station,4.0,Religious Sites
+Jain Temple - Mumbai,4.5,"['Historic Sites', 'Architectural Buildings']"
+Dharavi,4.0,Amusement & Theme Parks
+Viviana Mall,4.5,Neighbourhoods
+Shivaji Park,4.0,Neighbourhoods
+Malabar Hill,4.0,Points of Interest & Landmarks
+Mumba Devi Temple,4.0,History Museums
+Oberoi Mall,4.5,Monuments & Statues
+Crawford Market,4.0,Amusement & Theme Parks
+Prithvi Theatre,4.5,"['Architectural Buildings', 'Religious Sites']"
+Snow Kingdom,4.5,"['Points of Interest & Landmarks', 'Caverns & Caves']"
+Priyadarshini Park,4.5,Religious Sites
+Sri Sri Radha Rasabihari Ji Temple,4.5,Religious Sites
+Willingdon Sports Club,4.5,National Parks
+Chowpatty Beach,3.5,Beaches
+Rajabai Clock Tower,4.0,Points of Interest & Landmarks
+Linking Road,4.0,Points of Interest & Landmarks
+Bhau Daji Lad Museum,4.0,"['Points of Interest & Landmarks', 'Religious Sites']"
+Lokhandwala Complex Market,4.5,History Museums
+Aksa Beach,4.0,Speciality Museums
+Chor Bazaar,4.0,Religious Sites
+Powai Lake,3.5,Shopping Malls
+St. Thomas Cathedral,4.5,Shopping Malls
+Kamala Nehru Park,4.0,Water Parks
+Mahalakshmi Race Course,4.5,Arenas & Stadiums
+Nehru Science Center,4.0,Shopping Malls
+Hedavde Mahalaxmi Temple,4.5,Points of Interest & Landmarks
+Hanging Gardens,3.5,"['Points of Interest & Landmarks', 'Monuments & Statues']"
+Palladium Mall,4.0,"['Points of Interest & Landmarks', 'Scenic Drives']"
+National Centre for the Performing Arts,4.5,Bridges
+Gorai Beach,3.5,Religious Sites
+Ferry to Alibaug,4.0,"['Historic Sites', 'Architectural Buildings']"
+Jogger's Park,4.0,Amusement & Theme Parks
+Muktaa The Wellness Clinic &amp; Luxury Spa Marine Drive,5.0,Neighbourhoods
+Bandra Fort,4.0,Neighbourhoods
+Bandstand Promenade,4.0,Points of Interest & Landmarks
+Town Hall (Asiatic Society Library),4.0,History Museums
+Growel's 101 Mall,4.0,Monuments & Statues
+Mangaldas Market,4.0,Amusement & Theme Parks
+Snow World Mumbai,3.5,"['Architectural Buildings', 'Religious Sites']"
+Flora Fountain,4.0,"['Points of Interest & Landmarks', 'Caverns & Caves']"
+PVR Icon,4.5,Religious Sites
+Nehru Centre,4.0,Religious Sites
+Brihanmumbai Municipal Corporation building,4.5,National Parks
+Aarey Colony,4.0,Beaches
+Lal Baug Cha Raja,4.5,Points of Interest & Landmarks
+Madh Island,3.5,Points of Interest & Landmarks
+Girgaum Chowpatty,4.0,"['Points of Interest & Landmarks', 'Religious Sites']"
+Indian Museum Ship (Vikrant),4.0,History Museums
+Maharashtra Nature Park,4.0,Speciality Museums
+Inorbit Mall,4.5,Religious Sites
+Sassoon Dock,4.0,Shopping Malls
+St. Michael's Church,4.5,Shopping Malls
+Ambreshwar Shiva Temple,4.5,Water Parks
+Manori Beach,4.0,Arenas & Stadiums
+Banganga,4.0,Shopping Malls
+Spa by JW,5.0,Points of Interest & Landmarks
+Andheri Market,4.0,"['Points of Interest & Landmarks', 'Monuments & Statues']"
+Mahatma Jyotiba Phule Market,4.0,"['Points of Interest & Landmarks', 'Scenic Drives']"
+Kala Ghoda Art Precinct,4.5,Bridges
+Talao Pali Lake,4.0,Religious Sites
+Sukhdaa The Wellness Clinic and Cultural Spa Colaba,5.0,"['Historic Sites', 'Architectural Buildings']"
+Monetary Museum,4.5,Amusement & Theme Parks
+Juhu,4.0,Neighbourhoods
+Zaveri Bazaar,4.0,Neighbourhoods
+Sewri Jetty,4.0,Points of Interest & Landmarks
+Heera Panna Shopping Center,3.5,History Museums
+Horniman Circle Garden,4.0,Monuments & Statues
+BB Dadar Market,4.0,Amusement & Theme Parks
+Royal Opera House,4.0,"['Architectural Buildings', 'Religious Sites']"
+Mumbai G.P.O,4.5,"['Points of Interest & Landmarks', 'Caverns & Caves']"
+Five Gardens,4.0,Religious Sites
+Thiruchembur Murugan Temple,4.5,Religious Sites
+Bhavan's Nature and Adventure Centre,4.5,National Parks
+Cathedral of the Holy Name,4.5,Beaches
+Amarsons Garden,4.5,Points of Interest & Landmarks
+Mukteshwar Temple,4.5,Points of Interest & Landmarks
+Municipal Laundry,4.0,"['Points of Interest & Landmarks', 'Religious Sites']"
+Royal Western India Turf Club,4.5,History Museums
+Mumbai Port Trust Garden,4.0,Speciality Museums
+Fanaswadi Temple,4.5,Religious Sites
+Funky Monkeys Play Center - Andheri,4.0,Shopping Malls
+Ballard Estate,4.0,Shopping Malls
+Bhandup Pumping Station,4.5,Water Parks
+National Museum of Indian Cinema,4.5,Arenas & Stadiums
+Afghan Church,4.0,Shopping Malls
+Keneseth Eliyahoo Synagogue,4.0,Points of Interest & Landmarks
