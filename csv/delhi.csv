@@ -1,3 +1,121 @@
 tourist_spot,rating
 Qutub Minar,4.5,"['Points of Interest & Landmarks', 'Architectural Buildings']"
 Swaminarayan Akshardham,4.5,"['Religious Sites', 'Gardens']"
+Humayun's Tomb,4.5,"['Architectural Buildings', 'Religious Sites']"
+Gurudwara Bangla Sahib,4.5,"['Historic Sites', 'Religious Sites']"
+India Gate,4.0,"['Historic Sites', 'Points of Interest & Landmarks']"
+Lodhi Garden,4.5,Gardens
+Lotus Temple,4.0,Religious Sites
+Red Fort,4.0,"['Historic Sites', 'Points of Interest & Landmarks']"
+Chandni Chowk,4.0,Flea & Street Markets
+Hauz Khas Village,4.5,Neighbourhoods
+Rashtrapati Bhavan,4.5,Architectural Buildings
+Delhi Airport Metro Express,4.5,Public Transportation Systems
+Select Citywalk,4.5,Shopping Malls
+ISKCON Temple Delhi,4.5,"['Architectural Buildings', 'Religious Sites']"
+Rajpath,4.5,"['Historic Sites', 'Points of Interest & Landmarks']"
+Gandhi Smriti,4.5,Speciality Museums
+Birla Mandir Temple (Lakshmi Narayan),4.5,Religious Sites
+Connaught Place,4.0,Points of Interest & Landmarks
+Dilli Haat,4.0,Flea & Street Markets
+Chhatarpur Temple,4.5,Religious Sites
+Delhi Metro,4.5,Public Transportation Systems
+Gurudwara Sis Ganj Sahib,4.5,Religious Sites
+Sarojini Nagar Market,4.0,Flea & Street Markets
+Khan Market,4.0,Flea & Street Markets
+Mughal Garden,4.5,Gardens
+National Rail Museum,4.0,Speciality Museums
+Raj Ghat,4.0,Historic Sites
+Crafts Museum,4.0,Art Museums
+National Museum,4.0,Speciality Museums
+National Gandhi Museum,4.5,Speciality Museums
+Indira Gandhi Memorial Museum,4.5,History Museums
+DLF Promenade Mall,4.5,Shopping Malls
+Agrasen Ki Baoli - Leamigo,4.0,"['Historic Sites', 'Architectural Buildings']"
+Sunder Nursery Park,4.5,"['Parks', 'Gardens']"
+Majnu Ka Tilla,4.5,Historic Sites
+Hazrat Nizamuddin Darga,4.0,"['Points of Interest & Landmarks', 'Religious Sites']"
+Jantar Mantar,4.0,Observatories & Planetariums
+Mehrauli Archaeological Park,4.5,"['Historic Sites', 'Ancient Ruins']"
+Purana Qila,4.0,Historic Sites
+National Gallery of Modern Art,4.5,Art Museums
+Children's Park,4.0,"['Parks', 'Playgrounds']"
+Lajpat Nagar Central Market,4.5,Flea & Street Markets
+Safdarjung's Tomb,4.0,Points of Interest & Landmarks
+Parliament House,4.0,Government Buildings
+Janpath Market,4.0,Flea & Street Markets
+Karol Bagh,4.0,Neighbourhoods
+Habitat World Convention Centre,4.5,Convention Centres
+Sai Baba Temple,4.5,Religious Sites
+Jhandewala Devi Mandir l Temple,4.5,Points of Interest & Landmarks
+Shri Hanuman Mandir,4.0,Monuments & Statues
+"Malai Mandir, New Delhi",4.5,Religious Sites
+Pacific Mall,4.0,Shopping Malls
+Plaza Premium Lounge,4.0,Airport Lounges
+Discover India by Car,5.0,Taxis & Shuttles
+Nehru Park,4.0,Parks
+Guruji Travels Pvt Ltd,5.0,Taxis & Shuttles
+Isa Khan's Tomb,4.0,Architectural Buildings
+Saffron Palate,5.0,Cooking Classes
+Tastesutra,5.0,Cooking Classes
+Awaken Inner Buddha Yoga &amp; Meditation,5.0,"['Health Clubs', 'Yoga & Pilates']"
+Car with Driver North India,5.0,Taxis & Shuttles
+Incredible India by Car,5.0,Taxis & Shuttles
+Sawadhee Traditional Thai Spa,4.5,Spas
+"Chi, The Spa",5.0,Spas
+Mystery Rooms,4.5,Escape Games
+Indian Food Cooking Classes,5.0,Cooking Classes
+Taj Way Cabs,5.0,Taxis & Shuttles
+The Hidden Hour,4.5,Escape Games
+Kumar Tourist Taxi Service new Delhi India,5.0,Taxis & Shuttles
+Delhi Dance Academy,5.0,"['Lessons & Workshops', 'Game & Entertainment Centres']"
+Gozo cabs,4.0,Taxis & Shuttles
+The Carpet Cellar,5.0,Speciality & Gift Shops
+IndeChauffeur Satbir Singh,5.0,Taxis & Shuttles
+Kita Private Taxi,5.0,Taxis & Shuttles
+Amin Tours,5.0,"['Cultural Tours', 'Historical & Heritage Tours']"
+"Indriya Wellness, Spa &amp; Salon",5.0,Spas
+Keeper Landwey,5.0,"['Multi-day Tours', 'Cultural Tours']"
+Buzzaria Dukaan,5.0,Speciality & Gift Shops
+Pioneer Holidays,5.0,"['City Tours', 'Cultural Tours']"
+"Aheli Spa, The Roseate",5.0,Spas
+Old Delhi Bazaar Walk &amp; Haveli Visit,5.0,"['Cultural Tours', 'Historical & Heritage Tours']"
+Driver India Private Tours,5.0,"['Multi-day Tours', 'Historical & Heritage Tours']"
+Kuber Tours,5.0,Taxis & Shuttles
+Tony Bike Centre,4.5,Equipment Hire
+WanderOn,5.0,"['Multi-day Tours', 'Adrenaline & Extreme Tours']"
+Tirupati Cabs,5.0,Taxis & Shuttles
+Auraveda Panchakarma Centre,5.0,Spas
+MasterChef Cooking Classes,5.0,Cooking Classes
+Alpha India Holiday,5.0,Taxis & Shuttles
+Trinetra Tours,5.0,"['Multi-day Tours', 'Cultural Tours']"
+Ambience Mall,4.5,"['Speciality & Gift Shops', 'Shopping Malls']"
+Lazer Crazer,5.0,Game & Entertainment Centres
+Prime India Travel,5.0,Taxis & Shuttles
+Golden Triangle Delhi Agra Jaipur Tour.,5.0,"['City Tours', 'Multi-day Tours']"
+Manoj Private Tour Driver India,5.0,Taxis & Shuttles
+Santram Holidays,4.5,Taxis & Shuttles
+Escape Reality Delhi,5.0,Escape Games
+Taxis On Rent,5.0,Taxis & Shuttles
+Agra Day Tour Packages,5.0,"['City Tours', 'Historical & Heritage Tours']"
+India Taxi Services,5.0,Taxis & Shuttles
+Delhi Taxi Hire,5.0,Taxis & Shuttles
+Private Driver In India,5.0,"['Cultural Tours', 'Taxis & Shuttles']"
+Presidential Wheels,5.0,Taxis & Shuttles
+INDIA taxi &amp; tours,5.0,Taxis & Shuttles
+Chaman Duggal Private Tours,5.0,"['City Tours', 'Cultural Tours']"
+Flexible Driver in India,5.0,Taxis & Shuttles
+Delhi Food Walks,5.0,"['Cultural Tours', 'Walking Tours']"
+Perfect Agra Tours,5.0,"['Multi-day Tours', 'Historical & Heritage Tours']"
+Travel India One Day,5.0,"['City Tours', 'Multi-day Tours']"
+India Private Tourist Taxi,5.0,Taxis & Shuttles
+Cook with Surbhi,5.0,Cooking Classes
+Saniya Tour And Travels,5.0,"['Cultural Tours', 'Historical & Heritage Tours']"
+India Private Taxi Driver,5.0,Taxis & Shuttles
+Taj Destination Tours,5.0,"['Multi-day Tours', 'Historical & Heritage Tours']"
+Akshay Private Tourist Taxi,5.0,Taxis & Shuttles
+Ashok's Taxi Tours,5.0,"['Multi-day Tours', 'Sightseeing Tours']"
+Travel India by Private Taxi,5.0,Taxis & Shuttles
+DelhiByCycle,5.0,"['City Tours', 'Cultural Tours']"
+Reality Tours &amp; Travel,5.0,"['City Tours', 'Cultural Tours']"
+Incredible Real India Tours &amp; Travels,5.0,"['City Tours', 'Cultural Tours']"

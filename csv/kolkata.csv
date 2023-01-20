@@ -1,121 +1,121 @@
 tourist_spot,rating
-Victoria Memorial Hall,4.5
-Dakshineswar Kali Temple,4.5
-Howrah Bridge,4.5
-Mother House,4.5
-Park Street,4.5
-Eden Gardens,4.5
-Eco Tourism Park,4.5
-College Street (Boi Para),4.5
-Indian Museum (Jadu Ghar),4.0
-South Park Street Cemetery,4.5
-Science City,4.0
-St. Paul's Cathedral,4.0
-Metro Railway,4.0
-New Market,4.0
-Prinsep Ghat,4.0
-Birla Temple,4.5
-Jorasanko Thakur Bari,4.5
-Jain Swetamber Dadajika Temple,4.5
-Birla Planetarium,4.0
-Maidan,4.0
-Gariahat Market,4.0
-Quest Mall,4.5
-Netaji Bhawan,4.5
-Rabindra Sarovar,4.5
-Tagore House,4.5
-Kolkata Zoo &amp; Zoological Garden,4.0
-Nicco Parks &amp; Resorts Limited,4.0
-Birla Industrial &amp; Technological Museum,4.5
-"ISKCON Kolkata, Sri Sri Radha Govind Temple",4.5
-Ramakrishna Mission Swami Vivekananda's Ancestral House and Cultural Centre,4.5
-Parashnath Jain Temple,4.5
-Dakshineswar Ramkrishna Sangha Adyapeath,4.5
-Malik Ghat Flower Market,4.5
-South City Mall,4.0
-Marble Palace Kolkata,4.0
-Salt Lake Stadium,4.5
-St. John's Church,4.0
-"Baps Shri Swaminarayan Mandir, Kolkata",4.5
-National Library,4.5
-Fort William,4.0
-"City Centre, New Town",4.0
-City Centre  Mall,4.0
-Chowringhee,4.0
-Millenium Park,4.0
-Mother's Wax Museum,4.0
-Kalighat Kali Temple,3.5
-Nakhoda Mosque,4.5
-BBD Bagh,4.0
-The Agri-Horticultural Society of India,4.5
-Dakshinapan Shopping Complex,4.0
-Academy of Fine Arts,4.0
-Mani Square mall,4.0
-Shaheed Minar,4.0
-Acropolis Mall,4.0
-Tangra Chinatown,4.0
-Royal Calcutta Turf Club,4.0
-Rabindra Bharati University Museum,4.5
-Swabhumi - The Heritage Plaza,4.0
-Nirmal Hirday (Pure Heart),5.0
-Nehru Children's Museum,4.0
-Chintamoni Kar Bird Sanctuary,4.0
-General Post Office,4.5
-Ramakrishna Math,4.5
-Writers' Building,4.0
-Diamond Plaza,4.5
-Bhawanipore Cemetery,4.5
-Central Park,3.5
-Netaji Indoor Stadium,4.0
-Shobhabajar Rajbari,4.0
-Forum Courtyard,4.0
-Kolkata Tram Museum Smaranika,4.5
-Hatibagan Market,4.0
-Raj Bhavan,4.0
-Shree Aadi Bhootnath Mandir,4.5
-Mousuni Island,4.0
-Town Hall,4.0
-Lake Mall,4.0
-Babughat,4.5
-Sishu Bhavan,4.5
-Marble Palace,4.0
-Elliot Park,4.0
-Axis Mall,3.5
-Najrul Tirtha,4.0
-Metcalfe Hall,5.0
-E-Mall,4.0
-Dacca Kali Bari,4.5
-Sri Sarada Devi Temple,4.5
-Sri Aurobindo Bhawan,4.5
-Tippu Sultan's Mosque,4.5
-Konark Collectables,4.5
-Lower Circular Road Cemetery,4.5
-Aquatica,3.0
-Sudder Street,3.5
-CIMA Gallery,4.5
-Maidan Central East,4.5
-Thanthania Kalibari,4.0
-Nature Park,4.0
-Lake Town Clock Tower,3.5
-Beth El Synagogue,4.5
-Sunshine,5.0
-Ashutosh Museum of Indian Art,4.5
-Nalban Boating Complex,3.5
-Aakriti Art Gallery,4.5
-Biswa Bangla Gate,4.0
-Rabindra Tirtha,4.5
-Wet O Wild,4.0
-Sabarna Sangrahashala,4.0
-The RBI Museum,4.5
-Star Mall,4.5
-Spa by JW,5.0
-M P Birla Planetarium,4.5
-Maghen David synagogue,4.5
-Aranghata,5.0
-Artsacre Museum of Bengal Modern Art,4.0
-Kolkata Police Museum,4.5
-Merlin Homeland Mall,4.0
-Mahanirban Math,4.0
-East Bengal Ground,4.0
-Eco Urban Village,4.5
-The Harrington Street Arts Centre,4.0
+Victoria Memorial Hall,4.5,Speciality Museums
+Dakshineswar Kali Temple,4.5,"['Points of Interest & Landmarks', 'Religious Sites']"
+Howrah Bridge,4.5,Bridges
+Mother House,4.5,Points of Interest & Landmarks
+Park Street,4.5,Points of Interest & Landmarks
+Eden Gardens,4.5,Arenas & Stadiums
+Eco Tourism Park,4.5,Parks
+College Street (Boi Para),4.5,Points of Interest & Landmarks
+Indian Museum (Jadu Ghar),4.0,"['Natural History Museums', 'History Museums']"
+South Park Street Cemetery,4.5,Cemeteries
+Science City,4.0,"['Amusement & Theme Parks', 'Science Museums']"
+St. Paul's Cathedral,4.0,Churches & Cathedrals
+Metro Railway,4.0,Public Transportation Systems
+New Market,4.0,Flea & Street Markets
+Prinsep Ghat,4.0,Parks
+Birla Temple,4.5,Religious Sites
+Jorasanko Thakur Bari,4.5,"['Historic Sites', 'Architectural Buildings']"
+Jain Swetamber Dadajika Temple,4.5,Religious Sites
+Birla Planetarium,4.0,Observatories & Planetariums
+Maidan,4.0,Parks
+Gariahat Market,4.0,Points of Interest & Landmarks
+Quest Mall,4.5,Shopping Malls
+Netaji Bhawan,4.5,Speciality Museums
+Rabindra Sarovar,4.5,Bodies of Water
+Tagore House,4.5,Speciality Museums
+Kolkata Zoo &amp; Zoological Garden,4.0,Zoos
+Nicco Parks &amp; Resorts Limited,4.0,Amusement & Theme Parks
+Birla Industrial &amp; Technological Museum,4.5,"['Speciality Museums', 'Science Museums']"
+"ISKCON Kolkata, Sri Sri Radha Govind Temple",4.5,Religious Sites
+Ramakrishna Mission Swami Vivekananda's Ancestral House and Cultural Centre,4.5,['Historic Sites']
+Parashnath Jain Temple,4.5,Religious Sites
+Dakshineswar Ramkrishna Sangha Adyapeath,4.5,Religious Sites
+Malik Ghat Flower Market,4.5,Flea & Street Markets
+South City Mall,4.0,Shopping Malls
+Marble Palace Kolkata,4.0,Speciality Museums
+Salt Lake Stadium,4.5,Arenas & Stadiums
+St. John's Church,4.0,"['Architectural Buildings', 'Churches & Cathedrals']"
+"Baps Shri Swaminarayan Mandir, Kolkata",4.5,Religious Sites
+National Library,4.5,Libraries
+Fort William,4.0,Historic Sites
+"City Centre, New Town",4.0,Shopping Malls
+City Centre  Mall,4.0,Shopping Malls
+Chowringhee,4.0,Points of Interest & Landmarks
+Millenium Park,4.0,Amusement & Theme Parks
+Mother's Wax Museum,4.0,Speciality Museums
+Kalighat Kali Temple,3.5,Religious Sites
+Nakhoda Mosque,4.5,Religious Sites
+BBD Bagh,4.0,Points of Interest & Landmarks
+The Agri-Horticultural Society of India,4.5,Gardens
+Dakshinapan Shopping Complex,4.0,Shopping Malls
+Academy of Fine Arts,4.0,Art Galleries
+Mani Square mall,4.0,Shopping Malls
+Shaheed Minar,4.0,Points of Interest & Landmarks
+Acropolis Mall,4.0,Shopping Malls
+Tangra Chinatown,4.0,Neighbourhoods
+Royal Calcutta Turf Club,4.0,Horse Tracks
+Rabindra Bharati University Museum,4.5,History Museums
+Swabhumi - The Heritage Plaza,4.0,Visitor Centres
+Nirmal Hirday (Pure Heart),5.0,"['Historic Sites', 'Missions']"
+Nehru Children's Museum,4.0,Children's Museums
+Chintamoni Kar Bird Sanctuary,4.0,Nature & Wildlife Areas
+General Post Office,4.5,"['Historic Sites', 'Architectural Buildings']"
+Ramakrishna Math,4.5,Religious Sites
+Writers' Building,4.0,"['Historic Walking Areas', 'Architectural Buildings']"
+Diamond Plaza,4.5,Shopping Malls
+Bhawanipore Cemetery,4.5,Cemeteries
+Central Park,3.5,Parks
+Netaji Indoor Stadium,4.0,Arenas & Stadiums
+Shobhabajar Rajbari,4.0,Historic Sites
+Forum Courtyard,4.0,Shopping Malls
+Kolkata Tram Museum Smaranika,4.5,"['Speciality Museums', 'History Museums']"
+Hatibagan Market,4.0,Flea & Street Markets
+Raj Bhavan,4.0,Government Buildings
+Shree Aadi Bhootnath Mandir,4.5,Points of Interest & Landmarks
+Mousuni Island,4.0,Islands
+Town Hall,4.0,Architectural Buildings
+Lake Mall,4.0,Shopping Malls
+Babughat,4.5,Points of Interest & Landmarks
+Sishu Bhavan,4.5,Points of Interest & Landmarks
+Marble Palace,4.0,"['Historic Sites', 'Architectural Buildings']"
+Elliot Park,4.0,Parks
+Axis Mall,3.5,Shopping Malls
+Najrul Tirtha,4.0,Points of Interest & Landmarks
+Metcalfe Hall,5.0,"['Points of Interest & Landmarks', 'Architectural Buildings']"
+E-Mall,4.0,Shopping Malls
+Dacca Kali Bari,4.5,Points of Interest & Landmarks
+Sri Sarada Devi Temple,4.5,Points of Interest & Landmarks
+Sri Aurobindo Bhawan,4.5,Points of Interest & Landmarks
+Tippu Sultan's Mosque,4.5,Architectural Buildings
+Konark Collectables,4.5,"['Art Galleries', 'Art Museums']"
+Lower Circular Road Cemetery,4.5,Cemeteries
+Aquatica,3.0,Water Parks
+Sudder Street,3.5,Points of Interest & Landmarks
+CIMA Gallery,4.5,Art Galleries
+Maidan Central East,4.5,Parks
+Thanthania Kalibari,4.0,Religious Sites
+Nature Park,4.0,"['Nature & Wildlife Areas', 'Parks']"
+Lake Town Clock Tower,3.5,Points of Interest & Landmarks
+Beth El Synagogue,4.5,Religious Sites
+Sunshine,5.0,Speciality & Gift Shops
+Ashutosh Museum of Indian Art,4.5,Art Museums
+Nalban Boating Complex,3.5,Points of Interest & Landmarks
+Aakriti Art Gallery,4.5,Art Galleries
+Biswa Bangla Gate,4.0,Points of Interest & Landmarks
+Rabindra Tirtha,4.5,Civic Centres
+Wet O Wild,4.0,Water Parks
+Sabarna Sangrahashala,4.0,Speciality Museums
+The RBI Museum,4.5,History Museums
+Star Mall,4.5,Shopping Malls
+Spa by JW,5.0,Spas
+M P Birla Planetarium,4.5,"['Science Museums', 'Observatories & Planetariums']"
+Maghen David synagogue,4.5,Religious Sites
+Aranghata,5.0,Points of Interest & Landmarks
+Artsacre Museum of Bengal Modern Art,4.0,"['Art Galleries', 'Art Museums']"
+Kolkata Police Museum,4.5,History Museums
+Merlin Homeland Mall,4.0,Shopping Malls
+Mahanirban Math,4.0,Religious Sites
+East Bengal Ground,4.0,Arenas & Stadiums
+Eco Urban Village,4.5,Parks
+The Harrington Street Arts Centre,4.0,Art Museums

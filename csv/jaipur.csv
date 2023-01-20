@@ -1,121 +1,121 @@
 tourist_spot,rating
-Amber Palace,4.5
-Jantar Mantar - Jaipur,4.5
-Hawa Mahal - Palace of Wind,4.0
-Sheesh Mahal (Hall of Mirrors),4.5
-City Palace of Jaipur,4.0
-Birla Mandir Temple,4.5
-Elefriend,5.0
-EleSafari,5.0
-Nahargarh Fort,4.0
-Elefun,5.0
-Albert Hall Museum,4.0
-Mukesh Art Gallery,5.0
-EleJungle,5.0
-Anokhi Museum of Hand Printing,4.5
-Jaigarh Fort,4.0
-Jal Mahal,4.0
-Rajasthan Small Scale Cottage Industry,4.5
-Monkey Temple,4.0
-Govind Devji Temple,4.5
-Eleday,5.0
-Dera Amer Wilderness Camp,4.5
-Panna Meena ka Kund,4.5
-Moti Dungari Temple,4.5
-Akshardham Temple,4.5
-Ele Experience Farm,5.0
-Royal Gaitor Tumbas,4.5
-World Trade Park,4.5
-Rusirani Village,5.0
-Patrika Gate,4.5
-Jawahar Kala Kendra,4.5
-Gatore Ki Chhatriyan,4.5
-Diwan-e-Khas Hall of Private Audience,4.5
-"Khole Ke Hanuman JI Temple, Jaipur",4.5
-Jaipur Wax Museum,4.5
-Ganesh Pol Gateway,4.5
-Galtaji Temple,4.0
-Central Park,4.5
-Gyan Museum,5.0
-Jawahar Circle Garden,4.0
-"Jewels Lake Palace , Jaipur",5.0
-My Elephant Trip,4.5
-Shila Devi Temple,4.5
-Jaivana,4.5
-B M Birla Auditorium,4.5
-Jagat Shiromani Ji Temple,4.5
-Maharaja Sawai Man Singh II Museum,4.0
-The Vedic Astrology Experience,4.5
-Sisodia Rani Palace and Garden,4.0
-Elephant Fun Park,5.0
-Kerala Ayurveda Kendra,5.0
-EleJaipur,4.5
-Elephant Activity Planner,5.0
-Man Sagar Lake,4.0
-Ram Niwas Garden,4.0
-Diwan-e-Aam Hall of Public Audience,4.0
-Chandra Mahal,4.0
-Swargasuli Tower,4.0
-Jaipur Blue Pottery Art Centre,5.0
-Rajputana Cabs,5.0
-Dream Cab Jaipur,5.0
-New Maharaja Gem Palace,5.0
-Heritage Textiles,5.0
-Ranthambore Tour Cab,5.0
-YogaPeace,5.0
-Jaipur Delhi Cab,5.0
-Channi Carpets &amp; Textiles,5.0
-Silverine Spa &amp; Salon,5.0
-Om Sai Textiles,5.0
-Pink City Cooking Class,5.0
-Fair Deal Textile,5.0
-Dayma Taxi Service,5.0
-Maharshi Charak Ayurveda Jaipur,5.0
-Akee International,5.0
-Jaipur Cooking Classes,5.0
-Satyam Silver,5.0
-Rajasthan Pink City Cabs,5.0
-Jeypore Souvenirs,5.0
-Ethnic Textiles,5.0
-Raj Mandir Cinema,4.5
-Shivam Gems N Jewellery,5.0
-Jal Mahal Textile &amp; Carpets,5.0
-Gems Paradise,5.0
-Carpet And Textile House,5.0
-Chand's Ayurveda Massage &amp; Beauty Saloon,5.0
-Rajasthan Unique Experience,5.0
-Royal Spices And Tea,5.0
-Raja rickshaw,5.0
-K.L,4.5
-House Of Play,5.0
-Ratnavali Arts,5.0
-New Maharaja Gem Palace,5.0
-Heritage Textiles,5.0
-Ranthambore Tour Cab,5.0
-YogaPeace,5.0
-Jaipur Delhi Cab,4.0
-Channi Carpets &amp; Textiles,5.0
-Silverine Spa &amp; Salon,5.0
-Om Sai Textiles,5.0
-Pink City Cooking Class,5.0
-Fair Deal Textile,5.0
-Dayma Taxi Service,5.0
-Maharshi Charak Ayurveda Jaipur,5.0
-Akee International,5.0
-Jaipur Cooking Classes,4.5
-Satyam Silver,5.0
-Rajasthan Pink City Cabs,4.5
-Jeypore Souvenirs,5.0
-Ethnic Textiles,5.0
-Raj Mandir Cinema,5.0
-Shivam Gems N Jewellery,5.0
-Jal Mahal Textile &amp; Carpets,5.0
-Gems Paradise,5.0
-Carpet And Textile House,5.0
-Chand's Ayurveda Massage &amp; Beauty Saloon,5.0
-Rajasthan Unique Experience,4.0
-Royal Spices And Tea,5.0
-Raja rickshaw,5.0
-K.L,5.0
-House Of Play,5.0
-Ratnavali Arts,5.0
+Amber Palace,4.5,"['Historic Sites', 'Architectural Buildings']"
+Jantar Mantar - Jaipur,4.5,Observatories & Planetariums
+Hawa Mahal - Palace of Wind,4.0,"['Points of Interest & Landmarks', 'Architectural Buildings']"
+Sheesh Mahal (Hall of Mirrors),4.5,Architectural Buildings
+City Palace of Jaipur,4.0,"['Points of Interest & Landmarks', 'History Museums']"
+Birla Mandir Temple,4.5,"['Points of Interest & Landmarks', 'Architectural Buildings']"
+Elefriend,5.0,Nature & Wildlife Areas
+EleSafari,5.0,Nature & Wildlife Areas
+Nahargarh Fort,4.0,"['Military Museums', 'Historic Sites']"
+Elefun,5.0,Nature & Wildlife Areas
+Albert Hall Museum,4.0,Speciality Museums
+Mukesh Art Gallery,5.0,"['Art Galleries', 'Art Museums']"
+EleJungle,5.0,Nature & Wildlife Areas
+Anokhi Museum of Hand Printing,4.5,Speciality Museums
+Jaigarh Fort,4.0,Historic Sites
+Jal Mahal,4.0,"['Historic Sites', 'Architectural Buildings']"
+Rajasthan Small Scale Cottage Industry,4.5,Shopping Malls
+Monkey Temple,4.0,"['Points of Interest & Landmarks', 'Religious Sites']"
+Govind Devji Temple,4.5,Religious Sites
+Eleday,5.0,Nature & Wildlife Areas
+Dera Amer Wilderness Camp,4.5,Nature & Wildlife Areas
+Panna Meena ka Kund,4.5,Points of Interest & Landmarks
+Moti Dungari Temple,4.5,Religious Sites
+Akshardham Temple,4.5,Religious Sites
+Ele Experience Farm,5.0,Nature & Wildlife Areas
+Royal Gaitor Tumbas,4.5,Historic Sites
+World Trade Park,4.5,Shopping Malls
+Rusirani Village,5.0,Neighbourhoods
+Patrika Gate,4.5,"['Points of Interest & Landmarks', 'Architectural Buildings']"
+Jawahar Kala Kendra,4.5,"['Speciality Museums', 'Theatres']"
+Gatore Ki Chhatriyan,4.5,Points of Interest & Landmarks
+Diwan-e-Khas Hall of Private Audience,4.5,"['Architectural Buildings', 'Monuments & Statues']"
+"Khole Ke Hanuman JI Temple, Jaipur",4.5,"['Architectural Buildings', 'Religious Sites']"
+Jaipur Wax Museum,4.5,Speciality Museums
+Ganesh Pol Gateway,4.5,"['Points of Interest & Landmarks', 'Architectural Buildings']"
+Galtaji Temple,4.0,Religious Sites
+Central Park,4.5,Parks
+Gyan Museum,5.0,"['Art Galleries', 'Art Museums']"
+Jawahar Circle Garden,4.0,Gardens
+"Jewels Lake Palace , Jaipur",5.0,Art Galleries
+My Elephant Trip,4.5,Nature & Wildlife Areas
+Shila Devi Temple,4.5,Religious Sites
+Jaivana,4.5,Points of Interest & Landmarks
+B M Birla Auditorium,4.5,Convention Centres
+Jagat Shiromani Ji Temple,4.5,Points of Interest & Landmarks
+Maharaja Sawai Man Singh II Museum,4.0,Speciality Museums
+The Vedic Astrology Experience,4.5,Points of Interest & Landmarks
+Sisodia Rani Palace and Garden,4.0,"['Historic Sites', 'Architectural Buildings']"
+Elephant Fun Park,5.0,Nature & Wildlife Areas
+Kerala Ayurveda Kendra,5.0,Spas
+EleJaipur,4.5,Nature & Wildlife Areas
+Elephant Activity Planner,5.0,Nature & Wildlife Areas
+Man Sagar Lake,4.0,Bodies of Water
+Ram Niwas Garden,4.0,Gardens
+Diwan-e-Aam Hall of Public Audience,4.0,"['Art Galleries', 'Architectural Buildings']"
+Chandra Mahal,4.0,Historic Sites
+Swargasuli Tower,4.0,Monuments & Statues
+Jaipur Blue Pottery Art Centre,5.0,Speciality & Gift Shops
+Rajputana Cabs,5.0,Taxis & Shuttles
+Dream Cab Jaipur,5.0,Taxis & Shuttles
+New Maharaja Gem Palace,5.0,Speciality & Gift Shops
+Heritage Textiles,5.0,"['Speciality & Gift Shops', 'Factory Outlets']"
+Ranthambore Tour Cab,5.0,Taxis & Shuttles
+YogaPeace,5.0,Yoga & Pilates
+Jaipur Delhi Cab,5.0,Taxis & Shuttles
+Channi Carpets &amp; Textiles,5.0,Speciality & Gift Shops
+Silverine Spa &amp; Salon,5.0,Spas
+Om Sai Textiles,5.0,Speciality & Gift Shops
+Pink City Cooking Class,5.0,Cooking Classes
+Fair Deal Textile,5.0,Speciality & Gift Shops
+Dayma Taxi Service,5.0,Taxis & Shuttles
+Maharshi Charak Ayurveda Jaipur,5.0,Spas
+Akee International,5.0,Speciality & Gift Shops
+Jaipur Cooking Classes,5.0,Cooking Classes
+Satyam Silver,5.0,Speciality & Gift Shops
+Rajasthan Pink City Cabs,5.0,Taxis & Shuttles
+Jeypore Souvenirs,5.0,Speciality & Gift Shops
+Ethnic Textiles,5.0,Speciality & Gift Shops
+Raj Mandir Cinema,4.5,Cinemas
+Shivam Gems N Jewellery,5.0,Speciality & Gift Shops
+Jal Mahal Textile &amp; Carpets,5.0,Speciality & Gift Shops
+Gems Paradise,5.0,Speciality & Gift Shops
+Carpet And Textile House,5.0,"['Speciality & Gift Shops', 'Factory Outlets']"
+Chand's Ayurveda Massage &amp; Beauty Saloon,5.0,Spas
+Rajasthan Unique Experience,5.0,Taxis & Shuttles
+Royal Spices And Tea,5.0,Speciality & Gift Shops
+Raja rickshaw,5.0,Taxis & Shuttles
+K.L,4.5,Speciality & Gift Shops
+House Of Play,5.0,Game & Entertainment Centres
+Ratnavali Arts,5.0,Speciality&GiftShops
+New Maharaja Gem Palace,5.0,"['Speciality & Gift Shops', 'Art Galleries']"
+Heritage Textiles,5.0,Taxis & Shuttles
+Ranthambore Tour Cab,5.0,"['Speciality & Gift Shops', 'Lessons & Workshops']"
+YogaPeace,5.0,Speciality & Gift Shops
+Jaipur Delhi Cab,4.0,Speciality & Gift Shops
+Channi Carpets &amp; Textiles,5.0,Speciality & Gift Shops
+Silverine Spa &amp; Salon,5.0,"['Speciality & Gift Shops', 'Antique Shops']"
+Om Sai Textiles,5.0,"['Speciality & Gift Shops', 'Antique Shops']"
+Pink City Cooking Class,5.0,Game & Entertainment Centres
+Fair Deal Textile,5.0,Speciality & Gift Shops
+Dayma Taxi Service,5.0,Speciality & Gift Shops
+Maharshi Charak Ayurveda Jaipur,5.0,Nature & Wildlife Tours
+Akee International,5.0,Speciality & Gift Shops
+Jaipur Cooking Classes,4.5,Spas
+Satyam Silver,5.0,Taxis & Shuttles
+Rajasthan Pink City Cabs,4.5,Speciality & Gift Shops
+Jeypore Souvenirs,5.0,"['Yoga & Pilates', 'Cooking Classes']"
+Ethnic Textiles,5.0,Lessons & Workshops
+Raj Mandir Cinema,5.0,Taxis & Shuttles
+Shivam Gems N Jewellery,5.0,Game & Entertainment Centres
+Jal Mahal Textile &amp; Carpets,5.0,"['Paint & Pottery Studios', 'Lessons & Workshops']"
+Gems Paradise,5.0,Lessons & Workshops
+Carpet And Textile House,5.0,Speciality & Gift Shops
+Chand's Ayurveda Massage &amp; Beauty Saloon,5.0,Speciality & Gift Shops
+Rajasthan Unique Experience,4.0,Speciality & Gift Shops
+Royal Spices And Tea,5.0,"['Multi-day Tours', 'Cultural Tours']"
+Raja rickshaw,5.0,Speciality & Gift Shops
+K.L,5.0,Lessons & Workshops
+House Of Play,5.0,Taxis & Shuttles
+Ratnavali Arts,5.0,Speciality & Gift Shops
